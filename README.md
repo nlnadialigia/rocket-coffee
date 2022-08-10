@@ -20,9 +20,12 @@ Rocket Coffee é um cardápio online.
 
 <br>
 
-<p align="center">
-  <img src=".github/page.png" alt="Imagem do cardápio">
-</p>
+<img src=".github/page.png" alt="Imagem do cardápio">
+
+### 📌 QRCode
+
+<img src=".github/qr-code.svg" width="200" alt="QRCode do cardápio">
+
 
 <br>
 
